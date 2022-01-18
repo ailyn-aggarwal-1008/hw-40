@@ -1,0 +1,26 @@
+
+body{
+    background-color:black;
+    text-align:center;
+  } 
+  
+  h1
+  {
+    color:white;
+  }
+  h2
+  {
+    color:white;
+    
+    
+  }
+  h3
+  {
+    color:black;
+    background-color:white;
+   
+  }
+  h4,p{
+    
+    color:white;
+  }
